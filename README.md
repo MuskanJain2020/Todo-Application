@@ -1,18 +1,19 @@
-Todo Application
-Todo application developed using JSP, Servlet, JDBC and MySQL Database.
+**Todo Application**<br/>
+Todo application developed using JSP, Servlet, JDBC and MySQL Database.<br/>
 
-Following features
-Add todo
-Edit todo
-List Dodo
-Delete Todo
-Login
-Signup
-Responsive layout
-Technology stack
-Java 8+
-JSP and Servlet
-JDBC
-MySQL database
-Eclipse IDE
-Tomcat server 8+
+**Following features**<br/>
+Add todo<br/>
+Edit todo<br/>
+List Dodo<br/>
+Delete Todo<br/>
+Login<br/>
+Signup<br/>
+Responsive layout<br/>
+
+**Technology stack**<br/>
+Java 8+<br/>
+JSP and Servlet<br/>
+JDBC<br/>
+MySQL database<br/>
+Eclipse IDE<br/>
+Tomcat server 8+<br/>
